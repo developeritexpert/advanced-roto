@@ -1,0 +1,3 @@
+# .Odoo.sh.yml (optional)
+build:
+  python: requirements.txt
